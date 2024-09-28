@@ -1,11 +1,16 @@
 _repo: The-Sturgis-wager-b-A-detective-story_74441
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74441-h/images/cover.jpg
 creator:
   author:
     agent_name: Morette, Edgar
     gutenberg_agent_id: '57506'
     url: http://www.gutenberg.org/2009/agents/57506
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74441#The-Sturgis-wager-b-A-detective-story
 gutenberg_issued: '2024-09-19'
 gutenberg_type: Text
 identifiers:
